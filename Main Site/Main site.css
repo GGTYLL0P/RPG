@@ -1,7 +1,17 @@
 body {
     background-color: lightgray;
 }
+
 p {
     color: black;
     text-align: center;
+}
+
+img {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 150px;
+    
 }
