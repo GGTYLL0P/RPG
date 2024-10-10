@@ -7,11 +7,27 @@ p {
     text-align: center;
 }
 
-img {
+.WTBanner {
     position: fixed;
     bottom: 0px;
     left: 0px;
     width: 1920px;
-    height: 150px;
-    
+    height: 150px; 
+    z-index: 3;
+}
+.BrawlBanner {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    width: 150px;
+    height: 1080px;
+    z-index: 2;
+}
+.UndertaleBanner {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 150px;
+    height: 1080px;
+    z-index: 2;
 }
