@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "8-bit_operator";
+    src: url("fonts/8-bit_operator_mono.ttf");
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family:'8-bit_operator';
+}
+
+body {
+    font-size: 27px;
+}
+
+p{
+    padding-right: 6px;
+    padding-left: 6px;
+    padding-bottom: 2px;
+    margin-left: 45px;
+    margin-right: 45px;
+    border: 5px solid white;
+}
+
+p1{
+    color: yellow;
+}
+
+p2{
+    color: green
+}
+
+p3{
+    color: red
+}
